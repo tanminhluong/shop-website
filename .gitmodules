@@ -1,0 +1,5 @@
+
+[submodule "api"]
+	path = api
+	url = https://github.com/tanminhluong/react_projects.git
+	branch = node-shop-api
