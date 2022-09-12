@@ -3,3 +3,11 @@
 	path = api
 	url = https://github.com/tanminhluong/react_projects.git
 	branch = node-shop-api
+[submodule "admin"]
+	path = admin
+	url = https://github.com/tanminhluong/react_projects.git
+	branch = react-admin
+[submodule "client"]
+	path = client
+	url = https://github.com/tanminhluong/react_projects.git
+	branch = shop-client
